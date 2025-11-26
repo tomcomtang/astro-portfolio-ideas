@@ -1,26 +1,6 @@
 # Astro Portfolio Template Collection
 
-A collection of Astro Portfolio templates suitable for the following scenarios:
-
-- 🎨 **Designers and Developers**: Need Portfolio templates to showcase work
-- 🚀 **Frontend Developers**: Build personal portfolio websites
-- 📝 **Content Creators**: Build blogs or portfolio platforms
-- 🎓 **Students and Job Seekers**: Create personal resume and project showcase websites
-- 💼 **Freelancers**: Showcase skills and case studies in online Portfolio
-
-## 📚 About This Project
-
-Since the author is located in Asia, demos are deployed on a local Pages service in Asia. Users can choose their preferred deployment platform.
-
-### About Template Sources
-
-All template source code is hosted under the [@nuonuo-888](https://github.com/nuonuo-888) GitHub account. Some projects have been modified based on the original projects:
-
-- 🔧 Fixed errors in projects that couldn't be started directly
-- ⬆️ Upgraded Astro versions
-- ✨ Adjusted build configuration and deployment process
-
-You can view the original authors and projects through the Fork source of each repository. If you use a template, it's recommended to visit the original repository and give the original author a ⭐ Star.
+All template source code is hosted under the [@nuonuo-888](https://github.com/nuonuo-888) GitHub account. Some projects have been fixed and upgraded based on the original projects. You can view the original authors and projects through the Fork source of each repository. If you use a template, it's recommended to visit the original repository and give the original author a ⭐ Star.
 
 ## 🎯 Template List
 
